@@ -7,7 +7,7 @@
 ![Platform](https://img.shields.io/badge/platform-Windows-blue)
 ![Python](https://img.shields.io/badge/python-3.7+-green)
 ![PyQt5](https://img.shields.io/badge/PyQt5-5.15.10-orange)
-![License](https://img.shields.io/badge/license-MIT-yellow)
+![License](https://img.shields.io/badge/license-GPL--3.0-yellow)
 [![Legal](https://img.shields.io/badge/Legal-For%20Testing%20Only-orange)](DISCLAIMER.md)
 [![Warning](https://img.shields.io/badge/Warning-Read%20Disclaimer-red)](DISCLAIMER.md)
 
@@ -97,7 +97,7 @@ pyinstaller YourAppName.spec
 
 ## License
 
-MIT License
+本项目基于 **GNU General Public License v3.0** 开源，详见 [LICENSE.md](LICENSE.md)。
 
 ## 法律与合规警告
 
